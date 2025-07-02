@@ -1,0 +1,26 @@
+Name,Phone,Website,Industry,NumberOfEmployees,BillingCity,BillingState,BillingCountry
+Acme Corporation,555-123-0000,https://acme.com,Technology,120,San Francisco,CA,USA
+Beta Innovations,555-123-0001,https://betainnov.com,Finance,240,Austin,TX,USA
+Delta Systems,555-123-0002,https://deltasys.org,Retail,90,Chicago,IL,USA
+Gamma Health,555-123-0003,https://gammahealth.io,Healthcare,300,Seattle,WA,USA
+Epsilon Ventures,555-123-0004,https://epsilonventures.net,Education,75,New York,NY,USA
+Zeta Labs,555-123-0005,https://zetalabs.com,Technology,410,Los Angeles,CA,USA
+Theta Works,555-123-0006,https://thetaworks.biz,Finance,150,Denver,CO,USA
+Lambda Networks,555-123-0007,https://lambdanet.io,Technology,60,Miami,FL,USA
+Sigma Retail,555-123-0008,https://sigmaretail.com,Retail,200,Phoenix,AZ,USA
+Omega Edutech,555-123-0009,https://omegaedu.org,Education,110,Portland,OR,USA
+Nova Financials,555-123-0010,https://nova.finance,Finance,310,Atlanta,GA,USA
+Orion Research,555-123-0011,https://orionresearch.org,Healthcare,280,Boston,MA,USA
+Apex Global,555-123-0012,https://apexglobal.com,Technology,500,Dallas,TX,USA
+Vertex Industries,555-123-0013,https://vertexind.com,Manufacturing,600,Detroit,MI,USA
+Nimbus Cloud,555-123-0014,https://nimbuscloud.io,Technology,80,Raleigh,NC,USA
+Skyline Builders,555-123-0015,https://skylinebuilders.com,Construction,250,Las Vegas,NV,USA
+Clearwater Consulting,555-123-0016,https://clearwater.io,Consulting,45,Salt Lake City,UT,USA
+Redstone Media,555-123-0017,https://redstone.media,Media,190,Minneapolis,MN,USA
+Evergreen Energy,555-123-0018,https://evergreen.energy,Energy,390,Houston,TX,USA
+Pinnacle Travel,555-123-0019,https://pinnacle.travel,Travel,135,Orlando,FL,USA
+Quantum Robotics,555-123-0020,https://quantumrobotics.tech,Technology,210,San Jose,CA,USA
+BrightPath Schools,555-123-0021,https://brightpath.edu,Education,160,Cincinnati,OH,USA
+Titan Tech,555-123-0022,https://titantech.org,Technology,470,Charlotte,NC,USA
+Sapphire Logistics,555-123-0023,https://sapphirelogistics.com,Logistics,330,Columbus,OH,USA
+Helix Biotech,555-123-0024,https://helixbiotech.io,Healthcare,290,Philadelphia,PA,USA
